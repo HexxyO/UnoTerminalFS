@@ -61,6 +61,8 @@ Una vez instalados, el juego iniciará automáticamente. Espero que lo disfruten
 
 ![enter image description here](https://res.cloudinary.com/arnaldo10cisne/image/upload/v1623701627/Uno-python-captures/uno-python-cover_hn4o6b.png)
 
-Cualquier sugerencia pueden enviármela por medio del [formulario de contacto de mi página web](https://www.arnaldocisneros.com/contact) 😁
 
-[Página web](https://www.arnaldocisneros.com/) | [Twitter](https://twitter.com/arnaldo10cisne) | [Instagram](https://www.instagram.com/arnaldo10cisne/) | [Linkedin](https://www.linkedin.com/in/arnaldo10cisne/)
+---
+
+Repositorio de respaldo modificado por:  
+https://github.com/HexxyO/UnoTerminalFS
